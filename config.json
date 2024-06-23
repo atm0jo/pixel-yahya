@@ -1,7 +1,7 @@
 {
-  "secret": "0330db2a783d5febbebd4a3fcc423b6009e5240e246374b90f0a0786025d4fa3",
-  "tgId": "7042677688",
-  "initData": "query_id=AAG4u8YjAwAAALi7xiMnEr6T&user=%7B%22id%22%3A7042677688%2C%22first_name%22%3A%22Yahya%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719123914&hash=64c7dbe832d1379d96d85b5194c117c14b218f4850e7d2d9cb9d633d554b6a5b",
+  "secret": "c3521780a6f89ac047c8fae4ec1c319182324adf33d1eed3ef86e5cdcbbb9ff2",
+  "tgId": "5274427485",
+  "initData": "query_id=AAFdYGE6AgAAAF1gYTq8vnai&user=%7B%22id%22%3A5274427485%2C%22first_name%22%3A%22A%22%2C%22last_name%22%3A%22A%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719123458&hash=d6f70663b6012c46ee1695b74f5fe778d17f5936efcd0571928bcaec96c259bd",
   "hitRate": 0.1,
   "upgrade": "off"
 }
